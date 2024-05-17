@@ -8,7 +8,7 @@ View Json data from clipboard.
 
 2. 打开下载好的`.alfredworkflow`文件;
 
-操作步骤：
+## 操作步骤：
 
 1. 复制文本;
 
