@@ -12,6 +12,8 @@ View Json data from clipboard.
 
 1. 复制文本;
 
+![image](json-view-copy.jpg)
+
 2. 快捷键调出 Alfred 输入框并输入`json`;
 
 ![image](json-view-1.jpg)
