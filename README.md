@@ -30,4 +30,4 @@ View Json data from clipboard.
 
  - Format Json and paste. （格式化剪切板数据并粘贴，需要将光标定位到要粘贴的输入框内）
 
-![image](json-view-paste.jpg)
+![image](json-view-format-paste.jpg)
