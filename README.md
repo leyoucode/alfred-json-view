@@ -2,6 +2,12 @@
 
 View Json data from clipboard.
 
+## 安装
+
+1. 下载最新版本 [releases](https://github.com/liuweicode/alfred-json-view/releases)
+
+2. 打开下载好的`.alfredworkflow`文件;
+
 操作步骤：
 
 1. 复制文本;
